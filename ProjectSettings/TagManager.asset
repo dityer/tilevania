@@ -18,8 +18,8 @@ TagManager:
   - Player
   - Backround
   - Enemy
-  - 
-  - 
+  - Instant Death
+  - Interactables
   - 
   - 
   - 
@@ -50,9 +50,15 @@ TagManager:
   - name: Enemy
     uniqueID: 2788294375
     locked: 0
+  - name: Instant Death
+    uniqueID: 3850691037
+    locked: 0
   - name: Player
     uniqueID: 4163310811
     locked: 0
   - name: Foreground
     uniqueID: 1137395047
+    locked: 0
+  - name: Interactables
+    uniqueID: 44352471
     locked: 0
